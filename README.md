@@ -18,11 +18,15 @@ Esto está en *cursiva*
    * Elemento desordenado 2,1
    * Elemento desordenado 2,2
 3. Elemento 3
+   
+parrafo1parrafo1parrafo1
+
+parrafo2parrafo2parrafo2
 
 ```html
-<p> Esto es un párrafo.</p>
+<p>Esto es un párrafo.</p>
 ```
 
-[link](https://markdown.es/ Manual oficial de Markdown)
+["Manual oficial de Markdown"](https://markdown.es/ "Texto opcional dentro de la imagen")
 
 ![alt text](./imagen1.jpg "Imagen de Spiderman")

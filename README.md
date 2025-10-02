@@ -26,7 +26,12 @@ parrafo2parrafo2parrafo2
 ```html
 <p>Esto es un párrafo.</p>
 ```
-
 ["Manual oficial de Markdown"](https://markdown.es/ "Texto opcional dentro de la imagen")
 
 ![alt text](./imagen1.jpg "Imagen de Spiderman")
+
+|Jugador|Equipo|Nombre|
+|--------:|:---------------:|:----------------|
+|32|Lakers|Magic Johnson|
+|33|Celtics|Boston Celtics|
+|23|Bulls|Michael "Air" Jordan|
